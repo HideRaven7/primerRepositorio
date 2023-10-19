@@ -1,0 +1,14 @@
+.container {
+  background-color: #eaeaea;
+  border: 1px solid #ddd;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
