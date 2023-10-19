@@ -1,2 +1,8 @@
 .title() = para la primera letra en texto sea mayuscula
-.pupper()
+.upper() = convierte todos los caracteres alfabéticos de la cadena en mayúscula
+.lower() = convertir una cadena de caracteres a minúsculas.
+str(+) = Los signos de "+" en este caso se utilizan para concatenar (unir) diferentes cadenas de texto.
+.replace() = reemplaza parte de una cadena de texto, basándose en el número de caracteres especificados, con otra cadena de texto
+.find() = devuelve el índice más bajo o la primera aparición de la subcadena si se encuentra en una cadena determinada
+.join() = es una función en Python que se aplica a una cadena de texto para concatenar los elementos de una lista utilizando la cadena como separador. 
+.split() = es una función en Python que se utiliza para dividir una cadena de texto en una lista de elementos más pequeños, utilizando un delimitador especificado. 
